@@ -37,10 +37,6 @@ A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
-
-Feito com ♥ by Rocketseat 👋🏻 &nbsp;[Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
-
 ## Author
 
 Make by Natanael Lima 👋🏽 contact!
